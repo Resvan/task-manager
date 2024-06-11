@@ -19,7 +19,7 @@ A real-time task management application with drag-and-drop functionality built u
 ### Backend
 1. Navigate to the backend directory:
     ```sh
-    cd backend
+    cd server
     ```
 2. Install dependencies:
     ```sh
